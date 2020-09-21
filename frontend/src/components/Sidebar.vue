@@ -6,10 +6,10 @@
         <div class="listItems">
             <ul>
                 <li>
-                    <router-link to="/"><span class="button-secondary fa fa-home mr-3"></span> Home</router-link>
+                    <a class="button-secondary"><span class="button-secondary fa fa-home mr-3"></span> Home</a>
                 </li>
                 <li>
-                    <router-link to="/settings"><span class="button-secondary fa fa-cog mr-3"></span> Settings</router-link>
+                    <a class="button-secondary"><span class="button-secondary fa fa-cog mr-3"></span> Settings</a>
                 </li>
                 <li>
                     <a class="button-secondary"><span class="fa fa-puzzle-piece mr-3"></span> Games</a>
